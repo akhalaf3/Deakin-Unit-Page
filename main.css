@@ -1,37 +1,36 @@
 
-
 h1 {
   font-size: 40px;
-  font-family: Arial
+  font-family: Arial;
+  color: blue; /* Added this line to change the header color to blue */
 }
+
 h2 {
   font-size: 25px;
-  font-family: Arial
+  font-family: Arial;
 }
+
 h3 {
-  font-family: Arial
+  font-family: Arial;
 }
+
 p {
   font-size: 14px;
-  font-family: Arial
+  font-family: Arial;
 }
+
 th, td {
     padding: 8px;
     text-align: left;
     border-bottom: 1px solid #ddd;
-    font-family: Arial
+    font-family: Arial;
 }
 
-<<<<<<< HEAD
 div {
   background-color: darkcyan;
   text-align: right;
- }
- 
+}
 
-=======
 tr:nth-child(odd) {
     background-color: #f2f2f2;
-} 
->>>>>>> 8f18ab25b903dc8213cfe2d4706ae05bfb000d0f
-
+}
